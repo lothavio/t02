@@ -1,0 +1,35 @@
+#information{
+    background-color: black;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-bottom: 5px;
+    margin: 0;
+    float: left;
+    width: 100%;
+
+}
+
+#information h3{
+    color: aliceblue;
+ 
+}
+
+.row p{
+    color: azure!important;
+}
+
+#information h2:before{
+    width: 380px;
+}
+
+#information h2:after{
+    width: 380px;
+}
+
+#information h3:before{
+    border-color: aliceblue;
+}
+
+#git{
+    text-align: center;
+}

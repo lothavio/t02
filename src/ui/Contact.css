@@ -1,0 +1,50 @@
+#contact{
+    background-color: rgba(0, 28, 83, 0.705);
+    margin-top: 40px;
+    padding-top: 40px;
+    width: 100%;
+    margin: 0;
+    float:left;
+}
+
+input{
+    width: 100%;
+    padding: 1rem;
+    border: none;
+}
+
+.msg{
+    padding-bottom: 1em!important;
+}
+
+textarea{
+    width: 100%;
+    padding: 1rem;
+    border: none;
+}
+
+.contact-div{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#contact a{
+    padding: 5px;
+}
+
+#contact h2{
+    color:black;
+}
+
+#contact h2:before{
+    border-color: black;
+}
+
+#contact h2:after{
+    border-color: black;
+}
+
+#contact img{
+    width: 24px;
+    height: 24px;
+}
